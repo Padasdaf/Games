@@ -1,1 +1,1 @@
-
+Sprites are objects, with different properties like height, width, color, etc., and methods like moving right, left, up and down, jump, etc. The included files are the neccessary sprites required for the game to run.
